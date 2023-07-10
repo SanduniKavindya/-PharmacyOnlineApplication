@@ -1,0 +1,18 @@
+SMAP
+manage_002dsupplier_jsp.java
+JSP
+*S JSP
+*F
++ 0 manage-supplier.jsp
+manage-supplier.jsp
+*L
+5,33:48
+38:81,3
+39,129:84
+168,12:214
+179,2:226
+181,3:228,3
+184,9:237
+193,5:247
+197,37:252
+*E
